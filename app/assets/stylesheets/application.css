@@ -11,3 +11,11 @@ body {
     font-size: 13px;
     margin: 33px;
 }
+
+th {
+    padding-bottom: 5px;
+}
+
+table {
+    border-collapse: separate;
+}
